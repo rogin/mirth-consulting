@@ -6,17 +6,19 @@ Need a hand with your Mirth (NextGen Connect) work? Come check out our list of c
 
 Over on [slack](https://mirthconnect.slack.com), we've had lots of people come knocking and needing various Mirth work done. Since then, we've decided to create this helpful list.
 
-If you'd like to be listed, please open a PR or message me on slack (@rogin) with the following:
-
-1. Company Name
-1. your preferred company URL
-1. languages other than English you can cater
-1. a line or two blurb on what you focus on / specific sector(s) / sell yourself
-1. [optional] Country of origin and/or areas you would like to help (e.g. U.S. and E.U.)
-1. [optional, but recommended] a slack name to @ when someone knocks
+If you'd like to be listed, please open a PR or message me on slack (@rogin) with your details.
 
 Right now they're to be ordered alphabetically on Company Name, but that may change.
 
 ## The List
 
-TODO: fill me in!
+*Unless specifically mentioned in a 'Languages' callout, English is assumed.
+
+### Healthcare Integrations
+
+__URL:__ <https://www.healthcareintegrations.com/>
+__Location:__ Kansas City, MO
+__Slack POC:__ [@Tyler Chin](https://mirthconnect.slack.com/team/U052GS4BZ8F)
+__Supported Regions:__ US (Primary), Europe, Asia
+__Specialties:__ Mirth Consulting, HL7 Consulting, Laboratory Integrations, EMR Integrations, Billing Integrations, Software Integrations
+__About:__ Healthcare Integrations is a Health IT firm that specializes in building software integrations using any data format, including HL7, FHIR, X12, DICOM and more. Our specialty is helping Laboratories and Software Vendors integrate with EMRs, billing platforms, regulatory agencies, and more.
