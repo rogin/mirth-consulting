@@ -41,7 +41,8 @@ __URL:__ <https://innovarhealthcare.com/><br>
 __Location:__ Corporate HQ: Montgomery, AL. Staff fully remote in US<br>
 __Slack POC:__ [@Josh (Innovar Healthcare)](https://mirthconnect.slack.com/team/U3LG3LX09)<br>
 __Supported Regions:__ US (Primary), Australia, Asia<br>
-__Specialties:__ Mirth Connect hosting/managed services, Mirth Connect consulting and channel development, Lab Integrations, FHIR, X12<br>
-__About:__ At Innovar Healthcare, we specialize in moving data - from any source, in any format - to any destination, in any format.
+__Specialties:__ Mirth Connect hosting/managed services, Mirth Connect consulting and channel development, Lab Integrations, FHIR, X12, Data Migration, Health Information Exchange, and MORE!<br>
+__About:__ At Innovar Healthcare, we specialize in moving data - from any source, in any format - to any destination, in any format. We provide timely, simple to deploy, low cost, easily managed
+integration, messaging and interoperability solutions to healthcare organizations. Experience with: Epic, Allscripts, AthenaHealth, Cerner, Nextgen EMR, Nextgen Heath Data Hub, eClinicalWorks, and others
 
 ---
