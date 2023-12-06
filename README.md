@@ -6,7 +6,7 @@ Need a hand with your Mirth (NextGen Connect) work? Come check out our list of c
 
 Over on [slack](https://mirthconnect.slack.com), we've had lots of people come knocking and needing various Mirth work done. Since then, we've decided to create this helpful list.
 
-If you'd like to be listed, please open a PR or message me on slack (@rogin) with your details.
+If you'd like to be listed, please open a PR or message me on slack ([@rogin](https://app.slack.com/client/T02SW0K43/D040BL6S7TJ)) with your details.
 
 Right now they're to be ordered alphabetically on Company Name, but that may change.
 
