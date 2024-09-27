@@ -29,7 +29,7 @@ __About:__ Healthcare Integrations is a Health IT firm that specializes in build
 
 __URL:__ <https://brightcodecompany.com/><br>
 __Location:__ Estonia, Europe. GMT+2/+3<br>
-__Slack POC:__ [@CreepySheep](https://mirthconnect.slack.com/team/U01GEU8RCNS)<br>
+__Slack POC:__ [Kaur Palang](https://mirthconnect.slack.com/team/U01GEU8RCNS)<br>
 __Supported Regions:__ Europe (Primary) and US<br>
 __Specialties:__ Mirth Connect plugin development<br>
 __About:__ BrightCodeCompany excels in Mirth Connect plugin development, offering specialized solutions for custom integrations. Our expertise in Mirth's internals ensures a seamless and efficient integration process, making us your reliable partner for tailored and high-quality solutions.
