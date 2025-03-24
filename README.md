@@ -53,7 +53,18 @@ integration, messaging and interoperability solutions to healthcare organization
 __URL:__ <https://globalesm.com><br>
 __Languages:__ English, Spanish, Italian<br>
 __Slack POC:__ [@Gio (Consultant)](https://mirthconnect.slack.com/team/U0184RRHEJY)<br>
-__Supported Regions:__ USA, Europe, and Latin America<br>
+__Supported Regions:__ Europe, and Latin America<br>
 __About:__ At Globalesm, we specialize in delivering a powerful cloud-based platform solution for data integration, providing substantial improvements in data processing and reliability for businesses across industries.
+
+---
+
+### Meditecs
+
+__URL:__ <https://www.meditecs.com><br>
+__Languages:__ English, Spanish, French<br>
+__Slack POC:__ [@Pedro (Meditecs)](https://mirthconnect.slack.com/team/UCA5N1B8U)<br>
+__Supported Regions:__ Europe and Middle East<br>
+__Specialities:__ Medical Technology Integration, Interoperability Engineering, Consulting, Healthcare standards (HL7, FHIR, DICOM, ASTM, ...), Mirth Connect extensions (ASTM, Digital Pathology).<br>
+__About:__ Your smart choice for healthcare integration. Meditecs technology empowers organizations to exchange clinical information securely and efficiently.
 
 ---
