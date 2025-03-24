@@ -53,7 +53,7 @@ integration, messaging and interoperability solutions to healthcare organization
 __URL:__ <https://globalesm.com><br>
 __Languages:__ English, Spanish, Italian<br>
 __Slack POC:__ [@Gio (Consultant)](https://mirthconnect.slack.com/team/U0184RRHEJY)<br>
-__Supported Regions:__ Europe, and Latin America<br>
+__Supported Regions:__ USA, Europe, and Latin America<br>
 __About:__ At Globalesm, we specialize in delivering a powerful cloud-based platform solution for data integration, providing substantial improvements in data processing and reliability for businesses across industries.
 
 ---
